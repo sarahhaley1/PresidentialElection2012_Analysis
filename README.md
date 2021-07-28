@@ -1,4 +1,4 @@
-# PresidentialElection2012_Analysis
+# PresidentialElection_Analysis
 R 
 
 ### Background
